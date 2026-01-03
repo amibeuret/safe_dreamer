@@ -1,0 +1,17 @@
+title: Learning Safety Guardrails Offline
+description: Constraint learning for surgical robotics
+author: Ami Beuret
+layout: post
+date: 2025-12-30
+categories: [robotics, machine-learning, safe-rl, surgical-robotics]
+tags: [robotics, machine-learning, safe-rl, surgical-robotics, constraint-learning, model-based-rl, rl, reinforcement-learning]
+image: /assets/images/safe_dreamer_banner.png
+theme: minima
+show_excerpts: false
+
+# GitHub Pages configuration
+baseurl: "/safe_dreamer"
+url: "https://amibeuret.github.io"
+
+# Permalinks for posts
+permalink: /:title/
